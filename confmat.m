@@ -1,6 +1,6 @@
 function [C,err_rate] = confmat(true_lb,est_lb)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% ARGUMENTS
+% ARGUMENTS bla
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % true_lb : vector of n true labels (integers) attached to the data
 % est_lb : vector of n estimated labels. The different labels in est_lb 
